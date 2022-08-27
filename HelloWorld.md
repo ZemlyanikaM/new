@@ -1,3 +1,5 @@
 ## Hello!
 
-Cate are nice)
+Cats are nice)
+
+Dogs too)
